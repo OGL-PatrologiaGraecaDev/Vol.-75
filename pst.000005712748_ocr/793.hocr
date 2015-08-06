@@ -1,0 +1,74 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/75/pst.000005712748/793.png"; bbox 0 0 2029 3164; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 311 149 679 258">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 311 149 679 258">
+     <span class='ocr_line' id='line_1_1' title="bbox 311 149 679 258; baseline -0.041 0"><span class='ocrx_word' id='word_1_1' title='bbox 311 149 679 258; x_wconf 73' lang='grc' dir='ltr'>ιιιιιιιιιιιιιιιιιιιωιιιιιιιι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 311 297 689 347">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 311 297 689 347">
+     <span class='ocr_line' id='line_1_2' title="bbox 311 297 689 347; baseline -0.04 0"><span class='ocrx_word' id='word_1_2' title='bbox 311 297 689 347; x_wconf 68' lang='lat' dir='ltr'><strong>ADDUDUS7LB7HB</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 130 506 634 541">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 130 506 634 541">
+     <span class='ocr_line' id='line_1_3' title="bbox 130 506 634 541; baseline -0.002 0"><span class='ocrx_word' id='word_1_3' title='bbox 130 506 335 541; x_wconf 88' lang='lat' dir='ltr'><strong>BR60.M5</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 373 506 484 541; x_wconf 89' lang='lat'><strong>1857</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 521 506 634 541; x_wconf 89' lang='lat' dir='ltr'><strong>t.75</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 189 556 1107 599">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 189 556 1107 599">
+     <span class='ocr_line' id='line_1_4' title="bbox 189 556 1107 599; baseline -0.001 -8"><span class='ocrx_word' id='word_1_6' title='bbox 189 556 359 599; x_wconf 88' lang='lat' dir='ltr'><strong>Migne,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 400 559 605 599; x_wconf 86' lang='lat' dir='ltr'><strong>Jacques</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 639 557 779 598; x_wconf 89' lang='lat' dir='ltr'><strong>Paul,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 822 556 1107 591; x_wconf 87' lang='lat'><strong>1800-1875.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 250 606 1077 648">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 250 606 1077 648">
+     <span class='ocr_line' id='line_1_5' title="bbox 250 606 1077 648; baseline 0 -7"><span class='ocrx_word' id='word_1_10' title='bbox 250 606 548 648; x_wconf 68' lang='lat' dir='ltr'><strong>Patrologia</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 579 615 754 641; x_wconf 87' lang='lat' dir='ltr'><strong>cursus</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 789 606 1077 648; x_wconf 88' lang='lat' dir='ltr'><strong>completus.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 131 656 508 698">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 131 656 508 698">
+     <span class='ocr_line' id='line_1_6' title="bbox 131 656 508 698; baseline 0 -7"><span class='ocrx_word' id='word_1_13' title='bbox 131 656 305 691; x_wconf 88' lang='lat' dir='ltr'><strong>Series</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 340 665 508 698; x_wconf 72' lang='lat' dir='ltr'><strong>graca.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 943 806 1143 841">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 943 806 1143 841">
+     <span class='ocr_line' id='line_1_7' title="bbox 943 806 1143 841; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 943 806 1143 841; x_wconf 84' lang='lat'><strong>5712748</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 832 1406 1189 1478">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 832 1406 1189 1478">
+     <span class='ocr_line' id='line_1_8' title="bbox 832 1406 1189 1478; baseline 0.022 -8"><span class='ocrx_word' id='word_1_16' title='bbox 832 1406 1189 1478; x_wconf 86' lang='lat' dir='ltr'>PENNSTATE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 1010 1482 1323 1495">
+    <p class='ocr_par' dir='ltr' id='par_1_9' title="bbox 1010 1482 1323 1495">
+     <span class='ocr_line' id='line_1_9' title="bbox 1010 1482 1323 1495; baseline 0 -8"><span class='ocrx_word' id='word_1_17' title='bbox 1010 1482 1323 1495; x_wconf 35' lang='grc' dir='ltr'><strong>*ᾕ-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_10' title="bbox 932 1658 1201 1702">
+    <p class='ocr_par' dir='ltr' id='par_1_10' title="bbox 932 1658 1201 1702">
+     <span class='ocr_line' id='line_1_10' title="bbox 932 1658 1201 1702; baseline 0.026 -7"><span class='ocrx_word' id='word_1_18' title='bbox 932 1658 1201 1702; x_wconf 62' lang='grc' dir='ltr'><strong>υΝΠἝἘδΠὙν</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_11' title="bbox 945 1731 1181 1775">
+    <p class='ocr_par' dir='ltr' id='par_1_11' title="bbox 945 1731 1178 1775">
+     <span class='ocr_line' id='line_1_11' title="bbox 945 1731 1178 1775; baseline 0.03 -7"><span class='ocrx_word' id='word_1_19' title='bbox 945 1731 1178 1775; x_wconf 58' lang='grc' dir='ltr'><strong>ιλΒκΑκηω</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_12' title="bbox 1972 2316 1988 3019">
+    <p class='ocr_par' dir='ltr' id='par_1_12' title="bbox 1972 2796 1977 3019">
+     <span class='ocr_line' id='line_1_12' title="bbox 1972 2796 1977 3019; baseline 0 -130"><span class='ocrx_word' id='word_1_20' title='bbox 1972 2906 1975 3019; x_wconf 46' lang='grc'><strong><em>1</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
